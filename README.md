@@ -1,2 +1,6 @@
 # weatherapi
- Basic API base / weather bot
+ Basic API base / Weather Bot
+ 
+ 
+ 
+ discord.js
